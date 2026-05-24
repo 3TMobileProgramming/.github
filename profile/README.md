@@ -1,5 +1,17 @@
 # Capstone Design2 (Mobile Programming)<br>AI 공지 검색 챗봇 프로그램
-**🌟간트 차트:** https://docs.google.com/spreadsheets/d/1E2I-yOQkWpHmZ9G4DxZI66Tl0gs0sVFjFpinn9Yl7dI/edit?usp=sharing<br>
+**🌟간트 차트:** https://docs.google.com/spreadsheets/d/1E2I-yOQkWpHmZ9G4DxZI66Tl0gs0sVFjFpinn9Yl7dI/edit?usp=sharing<br><br><br>
+**================임시 메모장(작성해야 할 것)===================**<br>
+서비스 소개<br>
+기획 배경<br>
+기능 소개<br>
+기술 스택(개발 환경 간단하게-뭘 사용했는지?)(CI/CD 배포 환경 로드맵만 뽑기)<br>
+ERD<br>
+회고(회의록-산출물 쪽에 있음)<br>
+KPT<br>
+K : 이 프로젝트를 통해 배우게 된 것<br>
+P : 아쉬운 점<br>
+T : 트러블슈팅에서 미해결된 것들 또는 Develop한다면 시도하고 싶은 것들<br>
+**=============================================================**<br><br><br>
 #### 🌟와이어프레임<br>
 <img width="3467" height="3343" alt="KakaoTalk_20260524_222957116" src="https://github.com/user-attachments/assets/a529b175-6274-410f-bc09-b73e45b903b1" /><br><br>
 
