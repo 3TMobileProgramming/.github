@@ -31,7 +31,7 @@
   
 
 ### 김수현- 백엔드(크롤링, DB)
-- 크롤러: Jsoup 기반
+- 크롤러: Jsoup 기반, NGRAM
 - Spring Boot + JPA
 - 데이터베이스: MySQL
 
@@ -39,7 +39,7 @@
 ### 박성현- 백엔드(DB 키워드 추출, gpt api 연결)
 - Spring Boot + JPA
 - 데이터베이스: MySQL
-- AI Model : ChatGPT
+- AI Response Token Model : ChatGPT
   
 
 <br>
