@@ -31,9 +31,14 @@
   
 
 ### 김수현- 백엔드(크롤링, DB)
-- 크롤러: Jsoup 기반, NGRAM
-- Spring Boot + JPA
+- 크롤러: Jsoup 기반 HTML 파싱 및 URL 필터링
+- 검색: MySQL FULLTEXT + N-gram 파서 적용 한국어 검색 고도화
+- Spring Boot + JPA / JDBC 혼용
 - 데이터베이스: MySQL
+- 공지 조회/검색 REST API 구현 (전체/카테고리/키워드)
+- @Scheduled 자동 크롤링 스케줄러 구현 (매일 오전 8시)
+- ON DUPLICATE KEY UPDATE 중복 데이터 방지 처리
+- 프론트팀 API 명세서 작성 및 연동 지원
 
   
 ### 박성현- 백엔드(DB 키워드 추출, gpt api 연결)
@@ -176,7 +181,10 @@ GPT-4o-mini 전달
 
 #### 👉 시연 영상
 
-(동영상)
+
+
+https://github.com/user-attachments/assets/3ed0b0fc-db9b-427d-8f92-635d0f61ba41
+
 
 
 
