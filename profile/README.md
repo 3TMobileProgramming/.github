@@ -174,6 +174,10 @@ GPT-4o-mini 전달
 | AI | OpenAI GPT-4o-mini API |
 | 빌드 | Maven |
 
+#### 👉 시연 영상
+
+(동영상)
+
 
 
 ## 🌟간트 차트🌟<br>
