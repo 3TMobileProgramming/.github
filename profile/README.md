@@ -184,6 +184,10 @@ GPT-4o-mini 전달
 
 
 
+
+https://github.com/user-attachments/assets/0365dc65-9e3e-48b0-a8b6-de2a06f7576f
+
+
 https://github.com/user-attachments/assets/3ed0b0fc-db9b-427d-8f92-635d0f61ba41
 
 
