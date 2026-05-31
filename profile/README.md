@@ -1,5 +1,5 @@
 # AI 학교 공지 검색 어플리케이션
-### Capstone Design2 (Mobile Programming)<br><br><br><br><br>
+### Capstone Design (Mobile Programming)<br><br><br><br><br>
 ## 🌟서비스 소개🌟
 ### 사용자의 질문을 기반으로 학교 공지사항을 자동으로 검색하고 필요한 정보를 제공하는 ${\textsf{\color{#3B82F6}"AI\ 학교\ 공지\ 검색\ 어플리케이션"}}$
 <br><br><br><br>
