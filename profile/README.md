@@ -101,7 +101,7 @@
 2. **비동기 처리**: 서버 분석 대기 시간 동안 UI 스레드가 멈추지 않도록 처리
 3. **데이터 바인딩**: 서버 응답 성공 시, 상단 텍스트뷰에는 요약본을, 하단 공지 리스트를 갱신하며, 실패 시 에러 화면과 '다시 시도' 기능을 제공
 
-
+<br><br>
 ### 🔥 백엔드
 
 #### 👉 Flow
@@ -190,7 +190,7 @@ https://github.com/user-attachments/assets/0365dc65-9e3e-48b0-a8b6-de2a06f7576f
 
 https://github.com/user-attachments/assets/3ed0b0fc-db9b-427d-8f92-635d0f61ba41
 
-
+<br><br><br>
 
 
 ## 🌟간트 차트🌟<br>
