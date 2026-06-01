@@ -205,7 +205,6 @@ GPT-4o-mini 전달
   <img width="624" height="463" alt="ERD"
        src="https://github.com/user-attachments/assets/bd25ee6d-9882-4eb0-b2ca-d6c2a7c77510" />
 </p>
-<br><br><br>
 
 <br><br><br>
 ## 🌟기대 효과, 활용 계획🌟
