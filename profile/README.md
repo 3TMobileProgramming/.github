@@ -84,12 +84,11 @@
 #### 👉 시연 영상
 
 
-
-
-https://github.com/user-attachments/assets/0365dc65-9e3e-48b0-a8b6-de2a06f7576f
-
+https://github.com/user-attachments/assets/6b8b83ac-883e-4697-9dc1-eceb830f2ed2
 
 https://github.com/user-attachments/assets/3ed0b0fc-db9b-427d-8f92-635d0f61ba41
+
+<br><br>
 
 ### 🔥프론트엔드
 - **앱 실행 및 검색**
