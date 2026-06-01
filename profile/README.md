@@ -51,7 +51,7 @@
 
 <br><br>
 ## 🌟기능 소개🌟
-(아래 프론트/백에 영상 각자 넣고 수정도 해 주세요)<br><br>
+
 ### 🔥공통<br>
 #### 👉기술성<br>
 1. 학교 공지사항 데이터를 수집하고 검색 가능한 데이터 구조로 구축한다.<br>
@@ -80,6 +80,16 @@
 - **테스트 및 개선**<br>
 실제 사용자 시나리오를 기반으로 기능 테스트 수행<br>
 검색 정확도와 응답 품질을 개선<br><br><br>
+
+#### 👉 시연 영상
+
+
+
+
+https://github.com/user-attachments/assets/0365dc65-9e3e-48b0-a8b6-de2a06f7576f
+
+
+https://github.com/user-attachments/assets/3ed0b0fc-db9b-427d-8f92-635d0f61ba41
 
 ### 🔥프론트엔드
 - **앱 실행 및 검색**
@@ -179,16 +189,6 @@ GPT-4o-mini 전달
 | 검색 | MySQL FULLTEXT + N-gram |
 | AI | OpenAI GPT-4o-mini API |
 | 빌드 | Maven |
-
-#### 👉 시연 영상
-
-
-
-
-https://github.com/user-attachments/assets/0365dc65-9e3e-48b0-a8b6-de2a06f7576f
-
-
-https://github.com/user-attachments/assets/3ed0b0fc-db9b-427d-8f92-635d0f61ba41
 
 <br><br><br>
 
