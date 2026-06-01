@@ -195,9 +195,14 @@ GPT-4o-mini 전달
 ## 🌟간트 차트🌟<br>
 (ERD 이미지)
 <br><br><br>
+
+## 🌟요구사항 정의서🌟<br>
+<img width="2339" height="1653" alt="MP-1" src="https://github.com/user-attachments/assets/062fcc21-ef13-4cc3-b08a-e37f48cd79e5" />
+<br><br><br>
+
 ## 🌟ERD🌟<br>
 <img width="624" height="463" alt="image" src="https://github.com/user-attachments/assets/bd25ee6d-9882-4eb0-b2ca-d6c2a7c77510" />
-
+<br><br><br>
 
 <br><br><br>
 ## 🌟기대 효과, 활용 계획🌟
