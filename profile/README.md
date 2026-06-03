@@ -14,7 +14,7 @@
 
 <br><br><br>
 ## 🌟3TEAM 소개🌟
-### 정세영- PM 
+### 👋정세영 [@Crispylux](https://github.com/Crispylux) - PM 
 
 - notion 기반 팀프로젝트 진행
 - 요구사항 정의서를 기반으로 애자일 개발 진행
@@ -22,7 +22,7 @@
 - github로 코드 취합, 단위/통합 테스트 진행
   
 
-### 이정우- 프론트엔드(화면 설계, 구현)
+### 👋이정우 [@Dalgarim](https://github.com/Dalgarim) - 프론트엔드(화면 설계, 구현)
 
 - 개발 환경: Android Studio (Android Native 환경)
 - 개발 언어: Java, XML
@@ -31,7 +31,7 @@
 - UI 컴포넌트: Material Design, ConstraintLayout, Markwon
   
 
-### 김수현- 백엔드(크롤링, DB)
+### 👋김수현 [@nuyhsp02](https://github.com/nuyhsp02) - 백엔드(크롤링, DB)
 - 크롤러: Jsoup 기반 HTML 파싱 및 URL 필터링
 - 검색: MySQL FULLTEXT + N-gram 파서 적용 한국어 검색 고도화
 - Spring Boot + JPA / JDBC 혼용
@@ -42,7 +42,7 @@
 - 프론트팀 API 명세서 작성 및 연동 지원
 
   
-### 박성현- 백엔드(DB 키워드 추출, gpt api 연결)
+### 👋박성현 [@taefung2003-debug](https://github.com/taefung2003-debug) - 백엔드(DB 키워드 추출, gpt api 연결)
 - Spring Boot + JPA
 - 데이터베이스: MySQL
 - AI Response Token Model : ChatGPT
