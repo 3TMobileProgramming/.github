@@ -107,6 +107,21 @@ https://github.com/user-attachments/assets/3ed0b0fc-db9b-427d-8f92-635d0f61ba41
 <br><br>
 ### 🔥 백엔드
 
+
+#### 👉 사용 기술
+| 분류 | 기술 |
+|------|------|
+| Framework | Spring Boot 3.3.5 |
+| Language | Java 21 |
+| Database | MySQL 8.0 |
+| ORM | JPA / Hibernate |
+| 크롤링 | Jsoup |
+| 검색 | MySQL FULLTEXT + N-gram |
+| AI | OpenAI GPT-4o-mini API |
+| 빌드 | Maven |
+
+<br>
+
 #### 👉 Flow
 ```
 SyuNoticeCrawler (URL 수집)
@@ -119,12 +134,15 @@ JdbcNoticeRepository (DB 저장)
         ↓
 NoticeRepository (DB 조회)
 ```
+<br>
 
 #### 👉 데이터 수집 방식
 - 학사/장학/행사 카테고리별 각 100건씩 수집
 - 매일 오전 8시 @Scheduled 자동 크롤링
 - ON DUPLICATE KEY UPDATE로 중복 저장 방지
 - URL 기준 UNIQUE KEY 설정으로 데이터 무결성 유지
+
+<br>
 
 #### 👉 질문 처리 흐름
 ```
@@ -140,6 +158,7 @@ GPT-4o-mini 전달
         ↓
 답변 생성 후 결과 반환
 ```
+<br>
 
 #### 👉 주요 기능
 - **공지사항 수집**
@@ -170,18 +189,6 @@ GPT-4o-mini 전달
 | NoticeRepository.java | JPA 인터페이스로 DB 조회. 메서드 이름만으로 쿼리 자동 생성. 전체/카테고리별/키워드 검색 지원 |
 | Notice.java | notices 테이블과 1대1 매핑. id/title/date/url/body/category/fetchedAt 컬럼 정의 |
 | application.properties | DB 주소, 계정, 포트 등 연결 설정 파일 |
-
-#### 👉 사용 기술
-| 분류 | 기술 |
-|------|------|
-| Framework | Spring Boot 3.3.5 |
-| Language | Java 21 |
-| Database | MySQL 8.0 |
-| ORM | JPA / Hibernate |
-| 크롤링 | Jsoup |
-| 검색 | MySQL FULLTEXT + N-gram |
-| AI | OpenAI GPT-4o-mini API |
-| 빌드 | Maven |
 
 <br><br><br>
 
