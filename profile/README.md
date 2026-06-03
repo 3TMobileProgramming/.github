@@ -54,7 +54,9 @@
 4. 질문과 관련된 공지 내용을 요약하거나 핵심 정보를 제공하는 지능형 응답 시스템을 개발한다.<br>
 5. 모바일 어플리케이션 파일을 구축하여 다운받을 수 있는 형태로 제작한다.<br><br>
 
-이를 통해 공지사항 검색의 편의성과 정보 접근성을 향상시키는 것을 목표로 한다.<br><br><br>
+이를 통해 공지사항 검색의 편의성과 정보 접근성을 향상시키는 것을 목표로 한다.
+
+<br><br><br>
 
 
 #### 👉제작과정<br>
@@ -82,7 +84,7 @@ https://github.com/user-attachments/assets/6b8b83ac-883e-4697-9dc1-eceb830f2ed2
 
 https://github.com/user-attachments/assets/3ed0b0fc-db9b-427d-8f92-635d0f61ba41
 
-<br><br>
+<br><br><br>
 
 ### 🔥프론트엔드
 - **앱 실행 및 검색**
@@ -174,6 +176,8 @@ GPT-4o-mini 전달
 - **예외 처리**
     - 공지 없음 / GPT 실패 / 네트워크 오류 대응
 
+<br>
+
 #### 👉 크롤링 파트
 | 파일 | 역할 |
 |------|------|
@@ -181,6 +185,7 @@ GPT-4o-mini 전달
 | SyuNoticeParser.java | 수집된 URL에 접속해서 제목/날짜/본문 추출. 불필요한 태그 제거 후 정제 |
 | CrawledNotice.java | 크롤링/파싱 결과를 담는 객체. 제목/날짜/본문/URL/카테고리를 하나로 묶어 저장 |
 | NoticeCrawlerService.java | 크롤러/파서/DB저장을 묶어 자동 실행. @Scheduled로 매일 오전 8시 순차 실행 |
+<br>
 
 #### 👉 DB 파트
 | 파일 | 역할 |
