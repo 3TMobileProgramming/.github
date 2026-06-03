@@ -20,8 +20,7 @@
 - 요구사항 정의서를 기반으로 애자일 개발 진행
 - 간트 차트, 주간 업무 보고서로 일정 관리
 - github로 코드 취합, 단위/통합 테스트 진행
-  
-
+<br><br>
 ### ✨이정우 [@Dalgarim](https://github.com/Dalgarim) - 프론트엔드(화면 설계, 구현)
 
 - 개발 환경: Android Studio (Android Native 환경)
@@ -29,8 +28,7 @@
 - 네트워크 통신: Retrofit2 (서버 데이터 송수신용)
 - 이미지/애니메이션: Glide (이미지 처리, 로딩 애니메이션)
 - UI 컴포넌트: Material Design, ConstraintLayout, Markwon
-  
-
+<br><br>
 ### ✨김수현 [@nuyhsp02](https://github.com/nuyhsp02) - 백엔드(크롤링, DB)
 - 크롤러: Jsoup 기반 HTML 파싱 및 URL 필터링
 - 검색: MySQL FULLTEXT + N-gram 파서 적용 한국어 검색 고도화
@@ -40,17 +38,12 @@
 - @Scheduled 자동 크롤링 스케줄러 구현 (매일 오전 8시)
 - ON DUPLICATE KEY UPDATE 중복 데이터 방지 처리
 - 프론트팀 API 명세서 작성 및 연동 지원
-
-  
+<br><br> 
 ### ✨박성현 [@taefung2003-debug](https://github.com/taefung2003-debug) - 백엔드(DB 키워드 추출, gpt api 연결)
 - Spring Boot + JPA
 - 데이터베이스: MySQL
 - AI Response Token Model : ChatGPT
-  
-
-<br>
-
-<br><br>
+<br><br><br>
 ## 🌟기능 소개🌟
 
 ### 🔥공통<br>
