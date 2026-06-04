@@ -213,6 +213,19 @@ NoticeRepository (DB 조회)
 
 <br><br><br>
 
+#### 👉 AI / NLP 파트
+
+| 파일 | 역할 |
+|------|------|
+| ChatController.java | 사용자 자연어 질문을 입력받는 AI 채팅 API 컨트롤러. `/chat?question=...` GET 요청과 `/chat` POST 요청을 처리하고 ChatService로 전달 |
+| ChatRequestDto.java | POST 방식 AI 채팅 요청에서 사용자의 질문 데이터를 담는 DTO |
+| ChatResponseDto.java | AI 채팅 응답 결과를 담는 DTO. 사용자 질문, GPT 답변, 참고 공지사항 정보를 응답 형태로 전달 |
+| ChatService.java | 사용자 질문 처리의 핵심 서비스. 질문을 분석하고 KeywordService를 통해 키워드를 정규화한 뒤, NoticeRepository 검색 결과를 활용하여 GPT 답변 생성에 필요한 관련 공지를 선별 |
+| KeywordService.java | 사용자의 자연어 질문에서 핵심 키워드를 정규화하고 관련 카테고리를 추정. 유사 표현을 대표 키워드로 변환하여 검색 결과 활용도를 높임 |
+| QuestionType.java | 사용자 질문 유형을 구분하기 위한 Enum. 질문 의도에 따라 처리 흐름을 나누기 위해 사용 |
+| GptService.java | OpenAI GPT API와 통신하는 서비스. 선별된 공지사항 내용을 기반으로 프롬프트를 구성하고, 공지 기반 자연어 답변을 생성 |
+
+
 
 ## 🌟간트 차트🌟<br>
 (ERD 이미지)
@@ -302,8 +315,7 @@ NoticeRepository (DB 조회)
 <br>
 
 ### ✨박성현- 백엔드(AI/NLP, GPT API 연동)
-
-**K - 배운 것/좋았던 것 **
+**K - 배운 것/좋았던 것**
 - 프로젝트를 진행하며 github 활용법을 배움, 혼자서도 프로젝트를 진행해보며 잘 활용할 수 있겠다는 자신감이 생김
 - 이번 개발을 통해 백엔드에서 프로젝트 구조를 어떻게 만들어가야 하는지, 설계를 어떻게 해야하는지 공부해보게 돼서 좋았음
 - Spring Boot 환경에서 외부 GPT API를 연동하고, 사용자 질문에 대한 응답을 생성하는 흐름 구현하는 법을 알게됨
