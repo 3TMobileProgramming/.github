@@ -225,10 +225,11 @@ NoticeRepository (DB 조회)
 | QuestionType.java | 사용자 질문 유형을 구분하기 위한 Enum. 질문 의도에 따라 처리 흐름을 나누기 위해 사용 |
 | GptService.java | OpenAI GPT API와 통신하는 서비스. 선별된 공지사항 내용을 기반으로 프롬프트를 구성하고, 공지 기반 자연어 답변을 생성 |
 
-
+<br><br><br>
 
 ## 🌟간트 차트🌟<br>
-(ERD 이미지)
+<img width="2339" height="1653" alt="모바일 프로그래밍  간트 차트 - Sheet1-1" src="https://github.com/user-attachments/assets/69d0c02a-b051-46f3-9396-571d08691261" />
+
 <br><br><br>
 
 ## 🌟요구사항 정의서🌟<br>
